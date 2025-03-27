@@ -1,0 +1,9 @@
+                                                         MNU Public License (PL)
+What is included in the MNU (PL) license
+
+ -PL-based code must be distributed as open source, meaning users must have access to the source code of the program.
+ -Any changes made to the source code should also be distributed under PL
+ -If you use PL-based code in your program, then the program should also be distributed under PL
+ -Users have the right to free copying and distribution of the software under the PL, including the source code
+ -The license does not restrict the commercial use of the software, but it does not allow it to be sold at a price that prohibits access to the source code of the program.
+ -The software, which is distributed under the GPL, can be used for both commercial and non-commercial purposes.
