@@ -7,3 +7,5 @@ What is included in the MNU (PL) license
  -Users have the right to free copying and distribution of the software under the PL, including the source code
  -The license does not restrict the commercial use of the software, but it does not allow it to be sold at a price that prohibits access to the source code of the program.
  -The software, which is distributed under the GPL, can be used for both commercial and non-commercial purposes.
+The purpose of MNU PL is to grant the user the rights to copy, modify, and distribute programs 
+(including on a commercial basis), as well as to ensure that users of all derivative programs receive the above rights.
